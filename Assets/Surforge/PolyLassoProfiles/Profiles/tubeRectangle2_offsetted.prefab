@@ -1,0 +1,3762 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &142064
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 429220}
+  - component: {fileID: 11496032}
+  m_Layer: 0
+  m_Name: tubeRectangle2_offsetted
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &429220
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 142064}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11496032
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 142064}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c146cd5f8bc7bbf47a866c42d3f772cb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2800000, guid: 7f6c949872a8c744cbe5d24528100c54, type: 3}
+  iconLite: {fileID: 2800000, guid: 5e9d5db174e61034ab03870213684a1c, type: 3}
+  bevelAmount: 0.5
+  bevelSteps: 2
+  offsets:
+  - 0
+  heights:
+  - 0.2
+  iconColor: {r: 0, g: 0.9040003, b: 1, a: 1}
+  isFloater: 0
+  isTube: 1
+  isOpen: 0
+  thickness: 0.5
+  section:
+  - {x: -0.96, y: -0.4}
+  - {x: -1, y: -0.36}
+  - {x: -1, y: 0.36}
+  - {x: -0.96, y: 0.4}
+  - {x: 0.96, y: 0.4}
+  - {x: 1, y: 0.36}
+  - {x: 1, y: -0.36}
+  - {x: 0.96, y: -0.4}
+  isAdaptive: 1
+  adaptiveStep: 0.1
+  lengthOffsets0:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1.2
+  - 1.2
+  - 1.2
+  - 1.2
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 0.5
+  - 0.5
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 0.5
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1.2
+  - 1.2
+  - 1.2
+  - 1.2
+  - 1.2
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 0.5
+  - 0.5
+  - 0.5
+  - 0.5
+  - 0.5
+  - 0.5
+  - 0.5
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  lengthOffsets1: []
+  lengthOffsets2: []
+  heightOffsets0: []
+  heightOffsets1: []
+  heightOffsets2: []
+  repeatSize: 0
+  lengthOffsetOrder: 
+  heightOffsetOrder: 
+  edgeWiseOffset: 0
+  lengthWiseOffset: 0
+  offsetMinEdge: 0
+  corner: {fileID: 0}
+  childProfileVerticalOffsets: []
+  childProfileDepthOffsets: []
+  childProfileHorisontalOffsets: 
+  childProfileMatGroups: 
+  childProfileShapes: []
+  followerProfiles: []
+  followerProfileVerticalOffsets: []
+  followerProfileDepthOffsets: []
+  followerProfileMatGroups: 
+  cutoff: {fileID: 0}
+  cutoffTiling: {x: 0, y: 0}
+  bumpMap: {fileID: 0}
+  bumpMapIntensity: 1
+  bumpMapTiling: {x: 0, y: 0}
+  aoMap: {fileID: 0}
+  aoMapIntensity: 0
+  randomUvOffset: 0
+  stoneType: 0
+  allowIntersections: 0
+  overlapIntersections: 0
+  overlapAmount: 0
+  usedForOverlapping: 0
+  overlapStartInvert: 0
+  curveUVs: 0
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 0}
+      propertyPath: section.Array.size
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: offsets.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: heights.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.size
+      value: 200
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets0.Array.size
+      value: 200
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: heights.Array.data[0]
+      value: .200000003
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: heights.Array.data[1]
+      value: 1.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: iconColor.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: iconColor.g
+      value: .904000282
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: iconColor.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: iconColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: isTube
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: section.Array.data[0].x
+      value: -.959999979
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: section.Array.data[0].y
+      value: -.400000006
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: section.Array.data[1].x
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: section.Array.data[2].x
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: section.Array.data[2].y
+      value: .360000014
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: section.Array.data[3].x
+      value: -.959999979
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: section.Array.data[3].y
+      value: .400000006
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: section.Array.data[4].x
+      value: .959999979
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: section.Array.data[5].x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: section.Array.data[5].y
+      value: .360000014
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: thickness
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: bevelAmount
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: bevelSteps
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: section.Array.data[1].y
+      value: -.360000014
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: section.Array.data[4].y
+      value: .400000006
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: section.Array.data[6].x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: section.Array.data[6].y
+      value: -.360000014
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: section.Array.data[7].x
+      value: .959999979
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: section.Array.data[7].y
+      value: -.400000006
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: isAdaptive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: adaptiveStep
+      value: .100000001
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[0]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[25]
+      value: 1.20000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[24]
+      value: 1.20000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[26]
+      value: 1.20000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[23]
+      value: 1.20000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[27]
+      value: 1.20000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[22]
+      value: 1.20000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[28]
+      value: 1.20000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[21]
+      value: 1.20000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[29]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[20]
+      value: 1.20000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[30]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[19]
+      value: 1.20000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[31]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[1]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[2]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[3]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[4]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[5]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[6]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[7]
+      value: 1.20000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[8]
+      value: 1.20000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[9]
+      value: 1.20000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[10]
+      value: 1.20000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[11]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[12]
+      value: 1.20000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[13]
+      value: 1.20000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[14]
+      value: 1.20000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[15]
+      value: 1.20000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[16]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[17]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[18]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[32]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[33]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[34]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[35]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[36]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[37]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[38]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[39]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[40]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[41]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[42]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[43]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[44]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[45]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[46]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[47]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[48]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[49]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[103]
+      value: 1.20000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[102]
+      value: 1.20000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[101]
+      value: 1.20000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[100]
+      value: 1.20000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[79]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[78]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[77]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[76]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[75]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[74]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[136]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[135]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[50]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[51]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[52]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[53]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[54]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[55]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[56]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[57]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[58]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[59]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[60]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[61]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[62]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[63]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[64]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[65]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[66]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[67]
+      value: 1.20000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[68]
+      value: 1.20000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[69]
+      value: 1.20000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[70]
+      value: 1.20000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[71]
+      value: 1.20000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[72]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[73]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[80]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[81]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[82]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[83]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[84]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[85]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[86]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[87]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[88]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[89]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[90]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[91]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[92]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[93]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[94]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[95]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[96]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[97]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[98]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[99]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[104]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[105]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[106]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[107]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[108]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[109]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[110]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[111]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[112]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[113]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[114]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[115]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[116]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[117]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[118]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[119]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[120]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[121]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[122]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[123]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[124]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[125]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[126]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[127]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[128]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[129]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[130]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[131]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[132]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[133]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[134]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[137]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[138]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[139]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[140]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[141]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[142]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[143]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[144]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[145]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[146]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[147]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[148]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[149]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[150]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[151]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[152]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[153]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[154]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[155]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[156]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[157]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[158]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[159]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[160]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[161]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[162]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[163]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[164]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[165]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[166]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[167]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[168]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[169]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[170]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[171]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[172]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[173]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[174]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[175]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[176]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[177]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[178]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[179]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[180]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[181]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[182]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[183]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[184]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[185]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[186]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[187]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[188]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[189]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[190]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[191]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[192]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[193]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[194]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[195]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[196]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[197]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[198]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[199]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets0.Array.data[0]
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets0.Array.data[7]
+      value: 1.20000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets0.Array.data[8]
+      value: 1.20000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets0.Array.data[9]
+      value: 1.20000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets0.Array.data[10]
+      value: 1.20000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets0.Array.data[29]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets0.Array.data[30]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets0.Array.data[38]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets0.Array.data[67]
+      value: 1.20000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets0.Array.data[68]
+      value: 1.20000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets0.Array.data[69]
+      value: 1.20000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets0.Array.data[70]
+      value: 1.20000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets0.Array.data[71]
+      value: 1.20000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets0.Array.data[182]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets0.Array.data[183]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets0.Array.data[184]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets0.Array.data[185]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets0.Array.data[186]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets0.Array.data[187]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets0.Array.data[188]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[1].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[1].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[1].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[2].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[2].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[2].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[3].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[3].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[3].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[4].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[4].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[4].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[5].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[5].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[5].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[6].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[6].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[6].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[7].x
+      value: 1.20000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[7].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[7].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[8].x
+      value: 1.20000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[8].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[8].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[9].x
+      value: 1.20000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[9].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[9].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[10].x
+      value: 1.20000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[10].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[10].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[11].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[11].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[11].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[12].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[12].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[12].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[13].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[13].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[13].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[14].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[14].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[14].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[15].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[15].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[15].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[16].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[16].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[16].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[17].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[17].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[17].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[18].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[18].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[18].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[19].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[19].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[19].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[20].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[20].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[20].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[21].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[21].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[21].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[22].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[22].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[22].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[23].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[23].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[23].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[24].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[24].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[24].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[25].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[25].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[25].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[26].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[26].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[26].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[27].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[27].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[27].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[28].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[28].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[28].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[29].x
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[29].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[29].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[30].x
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[30].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[30].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[31].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[31].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[31].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[32].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[32].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[32].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[33].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[33].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[33].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[34].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[34].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[34].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[35].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[35].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[35].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[36].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[36].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[36].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[37].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[37].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[37].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[38].x
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[38].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[38].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[39].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[39].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[39].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[40].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[40].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[40].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[41].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[41].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[41].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[42].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[42].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[42].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[43].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[43].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[43].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[44].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[44].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[44].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[45].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[45].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[45].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[46].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[46].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[46].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[47].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[47].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[47].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[48].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[48].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[48].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[49].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[49].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[49].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[50].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[50].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[50].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[51].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[51].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[51].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[52].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[52].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[52].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[53].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[53].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[53].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[54].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[54].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[54].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[55].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[55].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[55].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[56].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[56].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[56].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[57].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[57].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[57].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[58].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[58].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[58].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[59].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[59].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[59].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[60].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[60].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[60].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[61].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[61].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[61].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[62].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[62].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[62].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[63].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[63].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[63].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[64].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[64].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[64].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[65].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[65].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[65].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[66].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[66].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[66].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[67].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[67].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[67].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[68].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[68].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[68].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[69].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[69].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[69].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[70].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[70].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[70].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[71].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[71].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[71].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[72].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[72].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[72].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[73].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[73].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[73].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[74].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[74].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[74].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[75].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[75].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[75].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[76].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[76].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[76].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[77].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[77].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[77].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[78].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[78].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[78].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[79].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[79].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[79].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[80].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[80].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[80].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[81].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[81].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[81].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[82].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[82].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[82].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[83].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[83].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[83].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[84].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[84].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[84].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[85].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[85].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[85].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[86].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[86].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[86].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[87].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[87].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[87].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[88].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[88].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[88].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[89].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[89].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[89].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[90].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[90].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[90].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[91].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[91].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[91].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[92].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[92].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[92].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[93].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[93].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[93].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[94].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[94].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[94].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[95].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[95].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[95].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[96].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[96].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[96].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[97].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[97].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[97].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[98].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[98].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[98].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[99].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[99].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[99].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[100].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[100].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[100].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[101].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[101].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[101].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[102].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[102].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[102].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[103].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[103].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[103].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[104].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[104].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[104].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[105].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[105].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[105].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[106].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[106].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[106].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[107].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[107].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[107].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[108].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[108].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[108].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[109].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[109].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[109].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[110].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[110].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[110].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[111].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[111].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[111].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[112].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[112].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[112].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[113].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[113].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[113].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[114].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[114].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[114].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[115].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[115].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[115].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[116].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[116].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[116].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[117].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[117].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[117].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[118].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[118].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[118].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[119].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[119].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[119].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[120].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[120].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[120].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[121].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[121].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[121].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[122].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[122].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[122].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[123].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[123].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[123].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[124].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[124].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[124].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[125].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[125].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[125].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[126].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[126].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[126].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[127].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[127].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[127].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[128].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[128].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[128].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[129].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[129].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[129].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[130].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[130].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[130].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[131].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[131].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[131].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[132].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[132].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[132].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[133].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[133].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[133].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[134].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[134].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[134].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[135].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[135].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[135].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[136].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[136].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[136].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[137].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[137].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[137].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[138].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[138].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[138].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[139].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[139].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[139].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[140].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[140].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[140].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[141].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[141].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[141].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[142].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[142].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[142].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[143].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[143].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[143].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[144].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[144].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[144].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[145].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[145].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[145].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[146].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[146].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[146].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[147].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[147].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[147].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[148].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[148].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[148].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[149].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[149].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[149].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[150].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[150].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[150].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[151].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[151].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[151].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[152].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[152].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[152].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[153].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[153].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[153].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[154].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[154].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[154].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[155].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[155].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[155].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[156].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[156].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[156].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[157].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[157].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[157].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[158].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[158].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[158].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[159].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[159].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[159].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[160].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[160].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[160].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[161].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[161].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[161].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[162].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[162].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[162].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[163].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[163].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[163].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[164].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[164].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[164].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[165].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[165].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[165].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[166].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[166].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[166].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[167].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[167].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[167].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[168].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[168].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[168].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[169].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[169].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[169].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[170].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[170].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[170].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[171].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[171].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[171].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[172].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[172].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[172].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[173].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[173].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[173].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[174].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[174].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[174].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[175].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[175].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[175].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[176].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[176].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[176].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[177].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[177].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[177].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[178].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[178].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[178].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[179].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[179].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[179].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[180].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[180].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[180].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[181].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[181].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[181].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[182].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[182].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[182].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[183].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[183].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[183].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[184].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[184].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[184].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[185].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[185].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[185].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[186].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[186].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[186].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[187].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[187].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[187].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[188].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[188].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[188].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[189].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[189].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[189].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[190].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[190].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[190].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[191].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[191].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[191].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[192].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[192].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[192].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[193].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[193].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[193].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[194].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[194].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[194].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[195].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[195].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[195].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[196].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[196].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[196].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[197].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[197].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[197].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[198].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[198].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[198].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[199].x
+      value: 3.44170499
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[199].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[199].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[0].x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[0].y
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: lengthOffsets.Array.data[0].z
+      value: 1.40129846e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: icon
+      value: 
+      objectReference: {fileID: 2800000, guid: 7f6c949872a8c744cbe5d24528100c54, type: 3}
+    - target: {fileID: 0}
+      propertyPath: offsets.Array.data[1]
+      value: -.150000006
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: offsets.Array.data[2]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: offsets.Array.data[3]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: offsets.Array.data[4]
+      value: .5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: offsets.Array.data[0]
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: heights.Array.data[2]
+      value: .100000001
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: heights.Array.data[4]
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: iconLite
+      value: 
+      objectReference: {fileID: 2800000, guid: 5e9d5db174e61034ab03870213684a1c, type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 142064}
+  m_IsPrefabAsset: 1
